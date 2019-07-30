@@ -1,0 +1,18 @@
+- 20 từ khóa phổ biến nhất trong chủ đề Xã hội:
+bot, đường, tại, csgt, giao thông, lưu thông, theo, tai nạn, hiện trường, bks c, bks b, hòa lạc hòa bình, xe khách, đi, vụ, tỉnh, gtvt, huyện, container, xe tải
+- 20 từ khóa phổ biến nhất trong chủ đề Giáo dục:
+thí sinh, thi, thpt, gdđt, ngữ văn, nhập học, trường, điểm, chấm thi, tại, bộ gdđt, trắc nghiệm, điểm chuẩn, nghị luận, kỳ, bài, trúng tuyển, theo, em, giám thị
+- 20 từ khóa phổ biến nhất trong chủ đề Pháp luật:
+tại, tang vật, lợn, công an, bình hiệp, theo, vietjet, tỉnh, huyện, pccc, ông, ma túy, biết, lực lượng, biên phòng, đối tượng, phát hiện, đi, cùng, phường
+- 20 từ khóa phổ biến nhất trong chủ đề Giải trí:
+ca khúc, mv, khán giả, diễn xuất, phim, thu minh, âm nhạc, hồ hoài anh, hát, mình, cô, tôi, nghệ sĩ, hit, nàng, album, diva, anh, ca sĩ, phim truyền hình
+- 20 từ khóa phổ biến nhất trong chủ đề Kinh tế:
+đồnglượng, fdi, asanzo, cổ phiếu, tại, theo, eximbank, fed, sjc, libra, usdounce, vnindex, doanh nghiệp, dn, ông, thị trường, doji, bitcoin, mức, chứng khoán
+- 20 từ khóa phổ biến nhất trong chủ đề Thể thao:
+hlv, vff, tứ kết, park, slna, neymar, austria wien, tiền đạo, hagl, hậu vệ, tiền vệ, công phượng, đội, messi, ghi bàn, vleague, fc, trận, thủ môn, tỷ số
+- 20 từ khóa phổ biến nhất trong chủ đề Văn hóa:
+món, giòn, gr, muỗng, ướp, đun, tỏi, ăn, nêm, thơm, sấu, nước mắm, gỏi, xào, đoan ngọ, ớt, gừng, đi, bạn, chỉ
+- 20 từ khóa phổ biến nhất trong chủ đề Công nghệ:
+rác, lộn tùng phèo, vô cơ, chọc trời, rácngày, đa phước đó, vws, năm tphcm ký, ki lô, héc ta, xà bần, nguyễn minh hòa, cao ốc, quốc gia sản xuất, đâu đâu, thức ăn thừa, khách vãng lai, phân bón, hữu cơ, sành sứ
+- 20 từ khóa phổ biến nhất trong chủ đề Thế giới:
+iran, mỹ, trump, ông, syria, tehran, hormuz, ngoại trưởng, irgc, uav, cuộc, không phận, eo biển, máy bay, nato, washington, tổng thống, tại, trung quốc, quân sự
